@@ -1,0 +1,16 @@
+# Cartelle di compilazione e file binari generati
+Debug/
+Release/
+*.bin
+*.elf
+*.hex
+*.map
+
+# File locali di configurazione di STM32CubeIDE
+.mxproject
+*.launch
+
+# File di log e temporanei dell'OS
+*.log
+.DS_Store
+Thumbs.db
